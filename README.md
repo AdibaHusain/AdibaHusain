@@ -3,7 +3,6 @@
 
 Email Me 👉 ✉️ **adibaknp@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Marvel Fan Portal Porject
 - 🌱 **I’m currently learning:** React, Tailwind CSS and ML concepts
 - 💬 **Ask me about:** Collaboration, Tech Support
 - ⚡ **Fun fact:** I Love being me!!
