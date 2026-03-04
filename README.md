@@ -1,5 +1,5 @@
-# 💫 Hi 👋, I'm Adiba Husain
-**A passionate 3rd-Year Btech(CS-AI) Student || Web Development || AI/ML**
+# Hellooo Everyonee, I'm Adiba Husain!
+**A passionate 3rd-Year Btech(CS-AI) Student || Web Developer || AI/ML Enthusiast**
 
 Email Me 👉 ✉️ **adibaknp@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
