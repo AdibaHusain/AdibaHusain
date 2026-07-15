@@ -1,11 +1,10 @@
 # Hellooo Everyonee, I'm Adiba Husain!
-**A passionate 3rd-Year Btech(CS-AI) Student || Web Developer || AI/ML Enthusiast**
+**A passionate 4rd-Year Btech(CS-AI) Student || Web Developer || AI/ML Enthusiast**
 
 Email Me 👉 ✉️ **adibaknp@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🌱 **I’m currently learning:** React, Tailwind CSS and ML concepts
-- 💬 **Ask me about:** Collaboration, Tech Support
-- ⚡ **Fun fact:** I Love being me!!
+- **I’m currently learning:** React, Tailwind CSS and ML concepts
+- **Ask me about:** Collaboration, Tech Support
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adiba-husain-6b0856278/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adibaknp@gmail.com) 
